@@ -1,0 +1,28 @@
+x = 5 ;
+nombre = "Juan" ;
+apellido = "Pérez" ;
+edad = 25 ;
+peso = 70.5 ;
+altura = 1.75 ;
+activo = true && false ;
+mensaje = "Bienvenido al sistema." ;
+
+if ( edad >= 18 ) {
+    puede_votar = true ;
+} else {
+    puede_votar = false ;
+}
+
+suma = 10 + 15 ;
+promedio = ( 8 + 9 + 10 ) / 3 ;
+resultado = ( promedio >= 14 ) && ( promedio <= 20 ) ;
+
+bloque_prueba = { [ 1, 2, 3 ] } ;
+
+texto = "Este es un ejemplo largo con múltiples símbolos y números: 1, 2.5, 3.1416." ;
+
+multiplicacion = 6 * 7 ;
+division = 100 / 4 ;
+resta = 50 - 25 ;
+igualdad = 10 == 10 ;
+diferente = 5 != 3 ;
